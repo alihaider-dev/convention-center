@@ -4,3 +4,8 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+
+/* Our Packages */
+.our-packages .single-table-3 {
+  border-radius: 25px;
+}
